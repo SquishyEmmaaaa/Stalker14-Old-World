@@ -4,5 +4,5 @@ stalker-discord-auth-quit-btn = Exit
 stalker-discord-auth-title= Authorization
 stalker-discord-auth-text = Log in
 stalker-discord-auth-dlink = Discord
-stalker-discord-auth-link = https://discord.com/invite/WQ2fu45mys
+stalker-discord-auth-link = https://discord.com/invite/PMhEtkXFEa
 stalker-discord-auth-browser-btn = Discord server

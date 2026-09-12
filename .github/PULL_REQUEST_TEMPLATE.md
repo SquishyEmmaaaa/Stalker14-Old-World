@@ -1,4 +1,4 @@
-<!-- If you have any questions, please contact our discord https://discord.gg/SnUSV76zR3 -->
+<!-- If you have any questions, please contact our discord https://discord.gg/PMhEtkXFEa -->
 
 ## What I changed
 <!-- Write what you changed or add pictures -->

@@ -5,11 +5,11 @@ It is based on the [space-syndicate/space-station-14](https://github.com/space-s
 
 ## Links
 
-[Our Discord](https://discord.gg/23vBbRqpWG) | [Our Wiki](https://wiki.station14.ru) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Client without Steam](https://spacestation14.io/about/nightlies/) | [Main Repository](https://github.com/stalker14-project/stalker14) | [Support the Project](https://boosty.to/stalkerss14)
+[Our Discord](https://discord.gg/PMhEtkXFEa) | [Our Wiki](https://wiki.station14.ru) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Client without Steam](https://spacestation14.io/about/nightlies/) | [Main Repository](https://github.com/stalker14-project/stalker14) | [Support the Project](https://boosty.to/stalkerss14)
 
 ## Contribute
 
-This build is private, and only members of the [Stalker](https://github.com/stalker14-project) team can make changes. If you want to help the project in any way, you can join our ranks or submit a bug report/suggestion on our [Discord](https://discord.gg/SnUSV76zR3)
+This build is private, and only members of the [Stalker](https://github.com/stalker14-project) team can make changes. If you want to help the project in any way, you can join our ranks or submit a bug report/suggestion on our [Discord](https://discord.gg/PMhEtkXFEa)
 
 ## License
 

@@ -8,7 +8,7 @@ These pages focus on **why** systems exist, **how** they fit together, and **whe
 
 | Resource | Link |
 |----------|------|
-| Discord | [Join the Discord](https://discord.gg/SnUSV76zR3) |
+| Discord | [Join the Discord](https://discord.gg/PMhEtkXFEa) |
 | SS14 Developer Docs | [docs.spacestation14.com](https://docs.spacestation14.com/) |
 | Repository | [coolmankid12345/stalker-14-EN](https://github.com/coolmankid12345/stalker-14-EN) |
 
