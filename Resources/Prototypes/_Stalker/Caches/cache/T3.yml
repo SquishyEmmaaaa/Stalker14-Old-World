@@ -42,6 +42,8 @@
           prob: 0.05
         - id: ST751M80BoxCinkBlueprint
           prob: 0.05
+        - id: ST45ACPAPBoxCinkBlueprint # OW - Adds to loot table
+          prob: 0.05 # OW
         - id: STClothingOuterArmorLightPlateVestBasePSZ7Blueprint
           prob: 0.03
         - id: ClothingOuterArmorSevaStalkerBlueprint
