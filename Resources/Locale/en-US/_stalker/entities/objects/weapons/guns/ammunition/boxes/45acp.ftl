@@ -26,5 +26,5 @@ ent-45ACPRIPBoxCink = Large Ammo Box (.45 ACP) RIP
     .desc = For some pistols and revolvers, there are 300 pieces in the box. Useless against armor.
     .suffix = { ent-45ACPLFMJBox.suffix }
 ent-45ACPAPBoxCink = Large Ammo Box (.45 ACP) AP
-    .desc = { ent-45ACPAPBox.desc }
+    .desc = For some pistols and revolvers, there are 300 pieces in the box. Provides penetration of armor class 3.
     .suffix = { ent-45ACPLFMJBox.suffix }
