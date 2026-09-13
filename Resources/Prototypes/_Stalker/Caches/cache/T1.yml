@@ -49,6 +49,8 @@
           prob: 0.05
         - id: ST6mmBuckshotBoxCinkBluePrint
           prob: 0.02
+        - id: ST45ACPLFMJBoxCinkBlueprint # OW - Adds To drop table
+          prob: 0.02 # OW
         - id: ST918PGJBoxCinkBlueprint
           prob: 0.05
         - id: ST918SP7BoxCinkBlueprint
