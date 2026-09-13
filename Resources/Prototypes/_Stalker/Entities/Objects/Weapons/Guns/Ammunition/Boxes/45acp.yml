@@ -193,7 +193,7 @@
   suffix: Stalker
   components:
     - type: BallisticAmmoProvider
-      capacity: 30
+      capacity: 300
       proto: Cartridge45ACPAP
       whitelist:
         tags:
