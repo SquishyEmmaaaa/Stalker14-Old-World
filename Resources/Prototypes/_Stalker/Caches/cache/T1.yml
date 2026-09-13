@@ -73,6 +73,8 @@
           prob: 0.03
         - id: ST751UNBoxCinkBlueprint
           prob: 0.02
+        - id: ST45ACPRIPBoxCinkBlueprint # OW - Add 45RIP to drop table
+          prob: 0.02 # OW
         - id: MedkitMilitary
           prob: 0.02
         - id: MedkitScience
